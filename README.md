@@ -172,7 +172,7 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
   
 **Lookup/Dimension Tables and Data/Fact Tables:**<br>
 Lookup Tables or Dimension Tables will have Primary Keys, will answer Who, What, Where, When and How<br>
-Data Tables or Fact Table will have Foreign Keys, and will contain transactional data
+Data Tables or Fact Tables will have Foreign Keys, and will contain transactional data
 
 **Operations on Budget Workbook:** <br>
 * Delete the promoted header
